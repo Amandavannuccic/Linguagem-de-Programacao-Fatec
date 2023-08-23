@@ -1,6 +1,6 @@
 # Linguagem-de-Programacao-Fatec
 
-Exercício 2e
+# <h1 align=center> Exercício 2e </h1>
 
 ID | Comando | A | B | C |
 --- | --- | --- | --- | ---|

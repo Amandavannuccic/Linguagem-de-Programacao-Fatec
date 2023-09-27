@@ -104,3 +104,10 @@ Exercicio 82
 | 5     | Exibir o resultado                                           | Exibir "NÃO ACHEI" no console   |
 | 6     | Fechar o scanner e encerrar o programa                       | Programa encerrado              |
 
+
+Exercicio 82
+
+Passo | Ação | Variaveis | Estado
+---| ---| ---| ---
+1 | iniciar o programa | Null ... ! Null ...
+2 | 

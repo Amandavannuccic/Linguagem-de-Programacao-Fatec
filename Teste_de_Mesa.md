@@ -1,5 +1,11 @@
 Teste de Mesa:
 
+Exercício 77
+
+| xx | xx | xx | xx | xx | xx | xx |
+|--|--|--|--|--|--|--|
+
+
 Exercício 78
 
 | Iteração | nota | notas           | somaNotas | totalAlunos | mediaTurma | alunosAcimaMedia |

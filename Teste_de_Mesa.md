@@ -109,5 +109,52 @@ Exercicio 82
 
 Passo | Ação | Variaveis | Estado
 ---| ---| ---| ---
-1 | iniciar o programa | Null ... ! Null ...
-2 | 
+
+
+Exercício 83
+
+| xx | xx | xx | xx | xx | xx | xx |
+|--|--|--|--|--|--|--|
+
+
+Exercício 84
+
+| xx | xx | xx | xx | xx | xx | xx |
+|--|--|--|--|--|--|--|
+
+
+Exercício 85
+
+| xx | xx | xx | xx | xx | xx | xx |
+|--|--|--|--|--|--|--|
+
+
+Exercício 86
+
+| xx | xx | xx | xx | xx | xx | xx |
+|--|--|--|--|--|--|--|
+
+Exercício 87
+
+| xx | xx | xx | xx | xx | xx | xx |
+|--|--|--|--|--|--|--|
+
+Exercício 88
+
+| xx | xx | xx | xx | xx | xx | xx |
+
+
+Exercício 89
+
+| xx | xx | xx | xx | xx | xx | xx |
+|--|--|--|--|--|--|--|
+
+Exercício 90
+
+| xx | xx | xx | xx | xx | xx | xx |
+|--|--|--|--|--|--|--|
+
+Exercício 91
+
+| xx | xx | xx | xx | xx | xx | xx |
+|--|--|--|--|--|--|--|
